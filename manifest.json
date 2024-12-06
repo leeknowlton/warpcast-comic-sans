@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Comic Sans on Warpcast",
+  "name": "Comic Sans on Warpcast /comic-sans",
   "version": "1.0",
   "description": "Makes all fonts on the specified Warpcast page Comic Sans.",
   "content_scripts": [
