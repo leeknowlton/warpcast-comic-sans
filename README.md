@@ -2,6 +2,8 @@
 
 A simple Chrome extension that transforms all fonts on the Warpcast Comic Sans channel (`/comic-sans`) into Comic Sans MS.
 
+![CleanShot 2024-12-06 at 22 39 00@2x](https://github.com/user-attachments/assets/8c60cebf-b9ef-4b70-8402-526a66cfc9f9)
+
 ## Description
 
 This Chrome extension automatically applies Comic Sans MS font to all text when visiting the Comic Sans channel on Warpcast (`https://warpcast.com/~/channel/comic-sans`). It's a fun way to make the Comic Sans channel live up to its name!
@@ -25,7 +27,3 @@ The extension uses a simple CSS injection to change fonts on the specified Warpc
 ## Version
 
 Current version: 1.0
-
-## License
-
-[Add your preferred license here]
